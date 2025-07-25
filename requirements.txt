@@ -1,0 +1,4 @@
+ipykernel
+jupyter
+kagglehub
+kagglehub[pandas-datasets]
