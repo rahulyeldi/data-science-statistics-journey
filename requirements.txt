@@ -3,3 +3,4 @@ jupyter
 kagglehub
 kagglehub[pandas-datasets]
 seaborn
+scipy
